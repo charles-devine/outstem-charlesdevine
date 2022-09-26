@@ -1,5 +1,6 @@
 ## OutStem Front-end Challenge
 
-Created with React JS using Axios to grab the API
+Created with React JS 
 
-https://axios-http.com/
+* Axios to grab the API: https://axios-http.com/
+* https://reactjs.org/docs/forms.html
